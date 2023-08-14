@@ -1,0 +1,28 @@
+vishalrpadghan
+
+Create Azure Build YAML Pipeline to Deploy Java Web App into Azure _ Azure Build pipeline as a code
+
+one more:
+houssemDellai/gs-spring-bbot
+
+
+Java CI_CD using Azure DevOps
+
+
+one more:
+
+Azure DevOps - Lesson 25 _ Azure CI_CD Pipelines for Java _ Deploy Web Application in Azure_
+
+one more:
+Azure devops - YAML CI CD for Dotnet Application
+
+
+one more:
+How to Create a CI_CD Pipeline in Azure DevOps _ Azure DevOps Tutorial
+
+
+one more:
+Azure DevOps CI_CD Pipeline _ Azure DevOps Tutorial _ Azure DevOps _ Edureka _ DevOps Live - 1
+
+
+anbhiman/ASP.net-MVC-Project-Sample
